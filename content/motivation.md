@@ -20,7 +20,7 @@ The core idea of a Research Dugnad is to take a day out of the hectic schedule o
 
 A PI is generally very busy with research, teaching, University committees, conferences, etc. but is also the point of contact for the Group when the University wants to advertise to new students and wants a shiny picture for their brochure, or a keen undergrad looking for a PhD wants to ask if there are projects available. These tasks don't involve lots of skill, just some time and knowledge of what the group as a whole is working towards, so can be delegated to more junior members of the team to save the PI time.
 
-A Research Dugnad is the perfect opportunity to review what your Group's mission is, what funding do you have or will apply for in the future, and how everyone's individual work contributes to the goals. A [2014 study](https://news.stanford.edu/news/2014/september/motivation-walton-carr-091514.html) showed that people worked harder, longer and beter when they had social cues telling them that their individual task was contributing to a team goal, rather than being an isolated unit.
+A Research Dugnad is the perfect opportunity to review what your group's mission is, what funding do you have or will apply for in the future, and how everyone's individual work contributes to the goals. A [2014 study](https://news.stanford.edu/news/2014/september/motivation-walton-carr-091514.html) showed that people worked harder, longer and better when they had social cues telling them that their individual task was contributing to a team goal, rather than being an isolated unit.
 
 ### ...software development and sustainability?
 
