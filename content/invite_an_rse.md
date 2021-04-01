@@ -1,7 +1,7 @@
 ---
 title: "Invite an RSE"
 date: 2021-04-01T11:17:56+01:00
-draft: true
+draft: false
 ---
 
 Plenty of institutions now have [Research Software Engineers](https://society-rse.org/about/) (RSEs), people who combine an understanding of research with a knowledge of software engineering methods and practice. If you know of an RSE on your campus or in your network, you may consider bringing them in on your Research Dugnad to help out.
@@ -18,6 +18,10 @@ Whether any particular research software engineer, or RSE group, has specific ex
 
 It's best to start with a description of the problems you're facing, so that you can work with the RSE to identify causes and solutions that address those causes. We've had good experience with "software surgeries", short sessions conducted either face-to-face or online in which a researcher presents a particular problem and works through diagnosis with the RSE. These work best if you share access to your source code in advance of the meeting, though a "show-and-tell" screen-sharing session can also work well.
 
-Maybe you don't know what your problem is, but just want a general health assessment of your project and some pointers for things you might improve. There's a whole range of scopes you could consider here, from requesting a code review of a particular function (some sites have collaborative networks for just this purpose) to getting a full [software evaluation](https://www.software.ac.uk/resources/guides-everything/software-evaluation-guide). How broad or how focused you want to go depends on how much of the dugnad you want to devote to the evaluation, and where you think the time will be best spent.
+Maybe you don't know what your problem is, but just want a general health assessment of your project and some pointers for things you might improve. There's a whole range of scopes you could consider here, from requesting a code review of a particular function (some sites have set up [collaborative networks for just this purpose](https://github.com/OxfordCodeReviewNet/forum)) to getting a full [software evaluation](https://www.software.ac.uk/resources/guides-everything/software-evaluation-guide). How broad or how focused you want to go depends on how much of the dugnad you want to devote to the evaluation, and where you think the time will be best spent.
 
 ## Where can I find an RSE?
+
+There are RSE groups at institutions across the world, and the United States RSE Association [maintains a map](https://us-rse.org/usrse-map/). There are also specific maps for [the UK](https://society-rse.org/community/rse-groups/) and [Germany](https://de-rse.org/en/map.html).
+
+If there isn't an RSE group near you, there may still be RSEs! "Embedded" research software engineers are members of research groups and focus on the software-related needs of those groups. Put out a call across your site or your research area, and see who responds!
