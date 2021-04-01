@@ -1,4 +1,4 @@
-baseURL = "http://research-dugnads.github.io/"
+baseURL = "/dugnads-hq/"
 languageCode = "en-gb"
 title = "Research Dugnads"
 theme = "ananke"
