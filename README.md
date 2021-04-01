@@ -5,6 +5,11 @@ A landing page for how to structure and run Research Dugnads!
 **Table of Contents:**
 
 - [Working with the Website Locally](#working-with-the-website-locally)
+  - [Installing Hugo](#installing-hugo)
+  - [Creating new content](#creating-new-content)
+  - [Locally rendering changes](#locally-rendering-changes)
+  - [Changing the theme](#changing-the-theme)
+  - [Updating the theme](#updating-the-theme)
 
 ---
 
@@ -12,7 +17,7 @@ A landing page for how to structure and run Research Dugnads!
 
 The website is built using a tool called [Hugo](https://gohugo.io/)
 
-### Installing Hugo with Homebrew
+### Installing Hugo
 
 On MacOS using Homebrew, install Hugo using the following command.
 
