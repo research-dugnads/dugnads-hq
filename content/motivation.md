@@ -24,7 +24,7 @@ A Research Dugnad is the perfect opportunity to review what your group's mission
 
 ### ...software development and sustainability?
 
-A [2014 survey](https://software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers) of 15 UK Universities across a range of diciplines (not just sciences!) by the [Software Sustainability Institute](https://www.software.ac.uk/) found that 92% of respondents used research-specific sofware regulerly and 70% said their job would be impossible without it. Most have written their own software but many have never received formal training on coding or software skills and are rarely credited for their work, either in publications or promotion.
+A [2014 survey](https://software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers) of 15 UK Universities across a range of diciplines (not just sciences!) by the [Software Sustainability Institute](https://www.software.ac.uk/) found that 92% of respondents used research-specific software regularly and 70% said their job would be impossible without it. Most have written their own software but many have never received formal training on coding or software skills and are rarely credited for their work, either in publications or promotion.
 
 This leads us to a crisis in the core of scientific research: reporducibility. A [2016 article published in Nature Methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7802636/) looked at the software used in ~3900 published papers in the field of genomics and found that 67% of them were using outdated software and missing huge amounds information in their analysis.
 
