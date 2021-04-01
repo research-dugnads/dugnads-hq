@@ -15,6 +15,8 @@ The aim is to help research teams benefit from collaborative peer-to-peer learni
 
 :envelope: You could even [invite your local Research Software Engineer]({{< ref "invite_an_rse" >}} "Invite an RSE") to share their experience and expertise
 
+:books: Here's what a [Dugnad could look like]({{< ref "storytime" >}} "Story Time").
+
 ## Have you hosted a Dugnad?
 
 We'd love to hear your experience!
