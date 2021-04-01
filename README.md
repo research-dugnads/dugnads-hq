@@ -1,6 +1,8 @@
 # Research Dugnads HQ
 
-A landing page for how to structure and run Research Dugnads!
+Welcome to Research Dugnads HQ!
+You can find out everything about what Research Dugnads are and how to run them at our [website](https://research-dugnads.github.io/dugnad-hq).
+This README explains the tool to run the website locally and will point you to our Code of Conduct and Contributing Guidelines.
 
 **Table of Contents:**
 
