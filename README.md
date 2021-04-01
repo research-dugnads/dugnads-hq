@@ -10,6 +10,7 @@ A landing page for how to structure and run Research Dugnads!
   - [Locally rendering changes](#locally-rendering-changes)
   - [Changing the theme](#changing-the-theme)
   - [Updating the theme](#updating-the-theme)
+- [Contributing](#contributing)
 
 ---
 
@@ -60,3 +61,8 @@ To pull in any upstream changes to the theme being used as a git submodule, run 
 ```bash
 git submodule update --remote
 ```
+
+## Contributing
+
+Thank you for wanting to contribute to the Research Dugnads movement!
+Please make sure you have read our [Code of Conduct](CODE_OF_CONDUCT.md) before starting and checkout the [Contributing Guidelines](CONTRIBUTING.md) for tips on where to begin.
