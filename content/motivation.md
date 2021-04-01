@@ -12,15 +12,38 @@ draft: true
 
 Modern research is [a collaborative effort](https://www.nature.com/news/2008/081008/full/455720a.html). Researchers in an insitution form groups studying similar topics or all working under the same Principal Investigator, meet with collages from nearby institutions for seminars and conferences, and paricipate in global collaborations with late night telecons reaching hundreds of people. Thjere are many tools facilitating and encouraging active communication between huge remote collaborations, but here we focus on smaller local scale collaboration: just one research group.
 
-The core idea of a Research Dugnad is to take a day out of the hectic schedule of research, teaching and admin to come together as a group (physically or virtually) and perform tasks that benefit the group as a whole, share skills and have some fun. This goes beyond a regular group meeting where people might present their own work, ask for advice or share a paper they read and involves much more active input from everyone. We have prepared a list of tasks that might be useful to any research group and should enable everyone in the group to contribute something, but the agenda for the day should be carefully planned to match your group needs, skills, and location.
+The core idea of a Research Dugnad is to take a day out of the hectic schedule of research, teaching and admin to come together as a group (physically or virtually) *(link to list of virtual meeting tools?)* and perform tasks that benefit the group as a whole, share skills and have some fun. This goes beyond a regular group meeting where people might present their own work, ask for advice or share a paper they read and involves much more active input from everyone. We have prepared a list of tasks *(link to example taksks list)* that might be useful to any research group and should enable everyone in the group to contribute something, but the agenda for the day should be carefully planned to match your group needs, skills, and location.
 
 ## Why should I care about ...
 
 ### ...group admin?
 
+A PI is generally very busy with research, teaching, University committees, conferences, etc. but is also the point of contact for the Group when the University wants to advertise to new students and wants a shiny picture for their brochure, or a keen undergrad looking for a PhD wants to ask if there are projects available. These tasks don't involve lots of skill, just some time and knowledge of what the group as a whole is working towards, so can be delegated to more junior members of the team to save the PI time.
 
-### ...software development?
+A Research Dugnad is the perfect opportunity to review what your Group's mission is, what funding do you have or will apply for in the future, and how everyone's individual work contributes to the goals. A [2014 study](https://news.stanford.edu/news/2014/september/motivation-walton-carr-091514.html) showed that people worked harder, longer and beter when they had social cues telling them that their individual task was contributing to a team goal, rather than being an isolated unit.
+
+### ...software development and sustainability?
+
+A [2014 survey](https://software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers) of 15 UK Universities across a range of diciplines (not just sciences!) by the [Software Sustainability Institute](https://www.software.ac.uk/) found that 92% of respondents used research-specific sofware regulerly and 70% said their job would be impossible without it. Most have written their own software but many have never received formal training on coding or software skills and are rarely credited for their work, either in publications or promotion.
+
+This leads us to a crisis in the core of scientific research: reporducibility. A [2016 article published in Nature Methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7802636/) looked at the software used in ~3900 published papers in the field of genomics and found that 67% of them were using outdated software and missing huge amounds information in their analysis.
+
+This pictue is [slowly changing](https://www.software.ac.uk/blog/2018-04-11-secret-behind-growth-rse-groups-uk) as funders realise [the value](https://www.nature.com/articles/s43588-021-00048-5) in supporting software development as a fundamental process in research, but some of these problems can be solved on a smaller scale. The SSI survey found that use and knowledge of research software decreases with seniority, so more junior members of the group may hold valuable skills that can be shared. 
+
+Encouraging collaboration and resource sharing among the group would also significantly speed up the initiation of new group members, be they PhD students who have never coded before writing error-proine statistical analysis scripts, postdocs moving fields who lack some background knowledge of what parameters are best used for observing runs, experienced coders trying to maintain, document and optimise huge packages that are used worldwide with little support, or even the PI who has used hte same libraries since their PhD before the invntion of the internet and doesn't know what GitHub is. Everyone in the group can benefit from an extra pair of eyes to hunt down a bug, or a tip on a new plotting package that makes your presentation stand out at a conference. A Research Dugnad gives you space to share skills, work together and back up code and data in a place everyone can access, so no one needs to reinvent the wheel. 
+
+https://imgs.xkcd.com/comics/dependency.png
+
+*(Something about short term contracts and lost work)*
+
 
 
 ### ...fun/social stuff?
 
+https://news.stanford.edu/news/2014/september/motivation-walton-carr-091514.html
+
+https://www.sciencemag.org/careers/2021/03/become-better-leader-i-played-cooperative-games-my-research-group
+
+### ...doing this at all?
+
+*(Add testimoies from tester groups)*
