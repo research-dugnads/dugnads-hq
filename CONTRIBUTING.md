@@ -12,6 +12,13 @@ Research Dugnads is an open source project designed to bring research groups tog
 We love to receive contributions and feedback from our community — you!
 There are many ways to contribute, from running a dugnad and telling us what did and didn't work for your group, writing blog posts on dugnads you've held, to improving the documentation and submitting bug reports.
 
+## Providing Feedback
+
+The most useful contribution you can provide is feedback on how running a Research Dugnad has worked for you!
+This allows us to evolve and improve the process, features, and documentation around Research Dugnads.
+
+If you have run a Research Dugnad and are happy to do so, please leave an account of your experience by following the template in [this issue](https://github.com/research-dugnads/dugnads-hq/issues/17).
+
 ## Ground Rules
 
 To ensure your contribution is processed appropriately and in a timely manner, please consider the following ground rules when contributing to the project.
