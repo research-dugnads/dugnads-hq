@@ -32,8 +32,7 @@ This picture is [slowly changing](https://www.software.ac.uk/blog/2018-04-11-sec
 
 Encouraging collaboration and resource sharing among the group would also significantly speed up the initiation of new group members, be they PhD students who have never coded before writing error-prone statistical analysis scripts, postdocs moving fields who lack some background knowledge of what parameters are best used for observing runs, experienced coders trying to maintain, document and optimise huge packages that are used worldwide with little support, or even the PI who has used the same libraries since their PhD before the invention of the internet and doesn't know what GitHub is. Everyone in the group can benefit from an extra pair of eyes to hunt down a bug, or a tip on a new plotting package that makes your presentation stand out at a conference. A Research Dugnad gives you space to share skills, work together and back up code and data in a place everyone can access, so no one needs to reinvent the wheel. 
 
-*(Not sure how to embed images)*
-https://imgs.xkcd.com/comics/dependency.png
+![](https://imgs.xkcd.com/comics/dependency.png)
 
 *(Something about short term contracts and lost work)*
 
