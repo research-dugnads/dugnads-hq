@@ -32,6 +32,7 @@ This pictue is [slowly changing](https://www.software.ac.uk/blog/2018-04-11-secr
 
 Encouraging collaboration and resource sharing among the group would also significantly speed up the initiation of new group members, be they PhD students who have never coded before writing error-proine statistical analysis scripts, postdocs moving fields who lack some background knowledge of what parameters are best used for observing runs, experienced coders trying to maintain, document and optimise huge packages that are used worldwide with little support, or even the PI who has used hte same libraries since their PhD before the invntion of the internet and doesn't know what GitHub is. Everyone in the group can benefit from an extra pair of eyes to hunt down a bug, or a tip on a new plotting package that makes your presentation stand out at a conference. A Research Dugnad gives you space to share skills, work together and back up code and data in a place everyone can access, so no one needs to reinvent the wheel. 
 
+*(Not sure how to embed images)*
 https://imgs.xkcd.com/comics/dependency.png
 
 *(Something about short term contracts and lost work)*
@@ -40,10 +41,13 @@ https://imgs.xkcd.com/comics/dependency.png
 
 ### ...fun/social stuff?
 
-https://news.stanford.edu/news/2014/september/motivation-walton-carr-091514.html
+A [meta-study](https://journals.sagepub.com/doi/abs/10.1177/1046496408328821) of team building and motivation research found that yes, team building activities do actually work. Sort of...
 
-https://www.sciencemag.org/careers/2021/03/become-better-leader-i-played-cooperative-games-my-research-group
+Getting a group of strangers together and asking them awkward personal questions is never a way to make people comfortable. If you invite your colleages to a 'team building day' most people will groan, hide or try to find excuses not to come. However, activities that offered people the chance to get to know each other naturally in a low pressure environment, such as shared meals, trips to the museum or sports [(so long as the boss isn't too good at it)](https://money.usnews.com/money/careers/articles/2012/08/23/the-5-best-bonding-outings-for-co-workers) do have measurable impact on a groups performance at work.
+
+One of the [top 5 team building activities](https://money.usnews.com/money/careers/articles/2012/08/23/the-5-best-bonding-outings-for-co-workers) that have been shown to consistenly benefit rather than embarrass a group is shared learning. A Research Dugnad can have structured learning elements such as a prepared presentation on a new technique, or more casual learning activities like competitive code challenges *(link to list of activities)*. A group leader of an oncology group in Germany even found that [playing online escape room](https://www.sciencemag.org/careers/2021/03/become-better-leader-i-played-cooperative-games-my-research-group) style game with their group during the lockdown helped them learn how to admit mistakes in the lab and learn from them rather than feeling embarrased and hiding their flaws.
+
 
 ### ...doing this at all?
 
-*(Add testimoies from tester groups)*
+*(Add testimonies from tester groups)*
