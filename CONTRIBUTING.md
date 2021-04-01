@@ -60,3 +60,12 @@ However, please be respectful when taking this path as the maintaining team are 
 
 The reviewer may ask you to make some changes before marking your Pull Request as ready to merge.
 Please try to address these changes where possible and ask clarifying questions where things don't make sense.
+
+## Style Guide
+
+Please make sure you follow these guidelines to maintain consistency across the repository and make your contribution easier to review.
+
+- When referring to "Research Dugnads", we use capitalised case but we don't generally capitalise the word "dugnad" by itself
+- These guides are written in Markdown.
+  Please try to keep one sentence per line as this keeps the diffs of suggestions in Pull Requests much shorter.
+  (Check out the "raw" version of this document if you're not sure what this means!)
