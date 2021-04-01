@@ -1,4 +1,5 @@
-baseURL = "/dugnads-hq/"
+baseURL = "https://research-dugnads.github.io/dugnads-hq/"
 languageCode = "en-gb"
 title = "Research Dugnads"
 theme = "ananke"
+enableEmoji = true
