@@ -64,5 +64,5 @@ git submodule update --remote
 
 ## Contributing
 
-Thank you for wanting to contribute to the Research Dugnads movement!
+Thank you for participating in the Research Dugnads movement!
 Please make sure you have read our [Code of Conduct](CODE_OF_CONDUCT.md) before starting and checkout the [Contributing Guidelines](CONTRIBUTING.md) for tips on where to begin.
